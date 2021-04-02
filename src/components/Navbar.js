@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "../logo1.png";
+import logo from "../B logo.jpg";
 // REACT FONTAWESOME IMPORTS
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faBars } from "@fortawesome/free-solid-svg-icons";
