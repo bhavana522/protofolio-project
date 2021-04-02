@@ -1,9 +1,10 @@
 import './App.css';
 import "bootstrap/dist/css/bootstrap.min.css";
 import Particles from "react-particles-js";
+import About from "./pages/about/about.component";
 import Navbar from "./components/Navbar";
 import Header from"./components/Header";
-function App() {
+const App =()=> {
   return (
     <>
     <Particles
@@ -30,6 +31,8 @@ function App() {
       />
     <Navbar/>
     <Header/>
+    <About/>
+    
     </>
   );
 }

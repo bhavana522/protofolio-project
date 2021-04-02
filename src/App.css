@@ -98,22 +98,7 @@ nav ul li{
   color:var(--primary-white);
 }
 
-/******************-HEADER MAIN OFFER BUTTON****************/
-.btn-main-offer{
-  border: 1px solid var(--primary-red);
-  text-transform: uppercase;
-  border-radius: 0;
-  padding: 0.625rem 0.75rem 0.75rem 0.75rem;
-  color: var(--primary-white);
-  margin:2rem;
-}
-.btn-main-offer{
-  text-decoration: rgb(78, 228, 195);
-  background-color: rgb(219, 46, 46);
-  color:var(--primary-white);
-  transition:.2s ease-in-out
 
-}
 /******************PARTICLES JS**************/
 
 
