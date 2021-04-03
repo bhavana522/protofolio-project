@@ -4,10 +4,9 @@ import Typed from "react-typed";
 const Header = () => {
     return (
         <div className="header-wraper">
-            <div className="main-info">
-                <h1>Hey..,I AM BHAVANA</h1>
-                
-                <Typed
+          <div className="main-info">
+              <h1>HEY..., I AM BHAVANA</h1>
+          <Typed
                  className = "typed-text"
                  strings={["Learner"]}
                  typeSpeed={40}
@@ -15,8 +14,9 @@ const Header = () => {
                  loop
 
                 />
-                
-            </div>
+
+          </div>
+           
         </div>
     )
 }

@@ -2,9 +2,10 @@ import './App.css';
 import "bootstrap/dist/css/bootstrap.min.css";
 import Particles from "react-particles-js";
 import About from "./pages/about/about.component";
+import Skills from "./pages/skills/skills.component";
 import Navbar from "./components/Navbar";
 import Header from"./components/Header";
-const App =()=> {
+const App  =()=> {
   return (
     <>
     <Particles
@@ -18,7 +19,7 @@ const App =()=> {
           }
         },
         shape:{
-          type:"circle",
+          type:"polygon",
           stroke:{
             width:6,
             color:"#f9ab00"
@@ -32,6 +33,7 @@ const App =()=> {
     <Navbar/>
     <Header/>
     <About/>
+    <Skills/>
     
     </>
   );

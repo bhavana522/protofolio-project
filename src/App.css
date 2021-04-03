@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
 
+
 :root{
   --primary-white: #fff; 
   --primary-orange: #f9ab00;
@@ -87,7 +88,7 @@ nav ul li{
   z-index:1;
 }
 .main-info h1{
-  color: var(--primary-orange);
+color:pink;
   text-transform: uppercase;
 }
 
@@ -95,7 +96,7 @@ nav ul li{
 /*****************TYPED TEXT************/
 .typed-text{
   font-size: 2rem;
-  color:var(--primary-white);
+  color:plum;
 }
 
 
