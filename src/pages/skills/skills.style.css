@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
 .skills{
     background-color: tomato;
 }
@@ -25,10 +26,11 @@
   }
   
   .font-details {
+    font-family:"Roboto Condensed", sans-serif;
 
     font-size: 3em;
     font-weight: 500;
-    color: #2fd6dbf8;
+    color: teal;
   }
   
   .font-details-b {

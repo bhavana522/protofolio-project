@@ -1,6 +1,8 @@
 .about {
     background-color:transparent;
-    font-size: 1.1em;
+    background:url(about.jpg) no-repeat;
+    background-size: cover;
+        font-size: 1.1em;
   }
   
   .profile {
