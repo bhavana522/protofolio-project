@@ -1,11 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
 .skills{
-    background-color: tomato;
+  background-image: url("../../assets/img/background.jpg");
+  background-size: cover;
 }
 .focus {
     position:relative;
   top: 0%;
-  left: 200px;;
+  left: 0;;
   right:0;
   bottom: 0;
     

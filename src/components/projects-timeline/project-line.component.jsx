@@ -15,7 +15,7 @@ import './project-timeline.style.css'
 
 const ProjectTimeline = () => {
     return (
-        <div id ='projects'>
+        <div  className="pt-3 projects pb-3"id ='projects'>
             <h1 className="pt-3 text-center font-details-b pb-3">PROJECTS</h1>
             <Timeline>
             <Events>
