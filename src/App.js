@@ -4,21 +4,24 @@ import About from "./pages/about/about.component";
 import Skills from "./pages/skills/skills.component";
 import bgImage from "./assets/img/parallax/background.jpg";
 import{ Parallax } from 'react-parallax';
-import Fade from 'react-reveal/Fade';
+import MyNavbar from "./components/my navbar/mynavbar.component";
+import MyCarousel from "./components/my-carousel/my-carousel.component";
+import TitleMessage from "./components/MyTitleMessage/Titlemessage.component"
+import Fade from "react-reveal/Fade";
 import Slide from "react-reveal/Slide";
 import Container  from "react-bootstrap/Container";
 import ProjectTimeline from "./components/projects-timeline/project-line.component";
 import ContactForm from "./pages/contact-form/contact-form.component";
-import Navbar from "./components/Navbar";
-import Header from"./components/Header";
 const App  =()=> {
   return (
     <>
-    <Navbar/>
-    <Header/>
+      <div className="App" style={{ position: "relative" }}>
+    <MyCarousel/>
+    <TitleMessage />
+      <MyNavbar />
 
     <div>
-        <Parallax blur={{ min: -40, max: 40 }}
+        <Parallax blur={{ min: -30, max: 30 }}
          bgImage={bgImage}
          bgImageAlt=""
          strength={-200}>
@@ -53,7 +56,7 @@ const App  =()=> {
         </Fade>
       </Container>
       <hr />
-      
+      </div>
   
     </>
   );

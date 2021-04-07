@@ -4,7 +4,7 @@ import Button from "react-bootstrap/Button";
 import Col from "react-bootstrap/Col";
 import Row from "react-bootstrap/Row";
 import './contact-form.style.css'
-
+import {FaEnvelope, FaGithub, FaInstagram} from 'react-icons/fa';
 
 
 
@@ -19,21 +19,21 @@ const Contactform = () => {
             <div className="m-2">
               <a href="mailto:bhavanakasturi555@gmail.com" target="_blank" rel="noopener noreferrer">
                 <Button variant="outline-danger" title="bhavanakasturi555@gmail.com">
-                  <i className="fas fa-envelope-square"></i> Email 
+                  <FaEnvelope/> Email 
                 </Button>
               </a>
             </div>
             <div className="m-2">
               <a href="https://github.com/bhavana522" target="_blank" rel="noopener noreferrer">
                 <Button variant="outline-dark" title="My other projects">
-                  <i className="fab fa-github-square"></i> GitHub
+                  <FaGithub/> GitHub
                 </Button>
               </a>
             </div>
             <div className="m-2">
               <a href="https://www.instagram.com/bhavana_kasturi/?hl=en" target="_blank" rel="noopener noreferrer">
                 <Button variant="outline-primary" title="Follow me on insta">
-                  <i className="fa-instagram-square"></i> Instagram
+                  <FaInstagram/> Instagram
                 </Button>
               </a>
             </div>
