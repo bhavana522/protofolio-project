@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/protofolio-project/static/css/main.7fee3ff5.chunk.css",
-    "main.js": "/protofolio-project/static/js/main.b661eb1a.chunk.js",
-    "main.js.map": "/protofolio-project/static/js/main.b661eb1a.chunk.js.map",
+    "main.js": "/protofolio-project/static/js/main.3f7d0cf0.chunk.js",
+    "main.js.map": "/protofolio-project/static/js/main.3f7d0cf0.chunk.js.map",
     "runtime-main.js": "/protofolio-project/static/js/runtime-main.ed058af9.js",
     "runtime-main.js.map": "/protofolio-project/static/js/runtime-main.ed058af9.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/protofolio-project/static/css/2.4c97ca4f.chunk.css",
@@ -27,6 +27,7 @@
     "static/media/javascript.ba40d6a9.svg": "/protofolio-project/static/media/javascript.ba40d6a9.svg",
     "static/media/mssql.18f84630.svg": "/protofolio-project/static/media/mssql.18f84630.svg",
     "static/media/nodejs.52cbf9a8.svg": "/protofolio-project/static/media/nodejs.52cbf9a8.svg",
+    "static/media/profile.59f908ac.jpeg": "/protofolio-project/static/media/profile.59f908ac.jpeg",
     "static/media/python.e6d7dc73.svg": "/protofolio-project/static/media/python.e6d7dc73.svg",
     "static/media/react-bootstrap.1c7d4dd1.svg": "/protofolio-project/static/media/react-bootstrap.1c7d4dd1.svg",
     "static/media/react.add74742.svg": "/protofolio-project/static/media/react.add74742.svg",
@@ -38,6 +39,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.c783dc7a.chunk.js",
     "static/css/main.7fee3ff5.chunk.css",
-    "static/js/main.b661eb1a.chunk.js"
+    "static/js/main.3f7d0cf0.chunk.js"
   ]
 }
