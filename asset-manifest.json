@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/protofolio-project/static/css/main.7fee3ff5.chunk.css",
-    "main.js": "/protofolio-project/static/js/main.3f7d0cf0.chunk.js",
-    "main.js.map": "/protofolio-project/static/js/main.3f7d0cf0.chunk.js.map",
-    "runtime-main.js": "/protofolio-project/static/js/runtime-main.ed058af9.js",
-    "runtime-main.js.map": "/protofolio-project/static/js/runtime-main.ed058af9.js.map",
+    "main.css": "/protofolio-project/static/css/main.b978b1e6.chunk.css",
+    "main.js": "/protofolio-project/static/js/main.d87ec8bc.chunk.js",
+    "main.js.map": "/protofolio-project/static/js/main.d87ec8bc.chunk.js.map",
+    "runtime-main.js": "/protofolio-project/static/js/runtime-main.4b9cbc9f.js",
+    "runtime-main.js.map": "/protofolio-project/static/js/runtime-main.4b9cbc9f.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/protofolio-project/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.c783dc7a.chunk.js": "/protofolio-project/static/js/2.c783dc7a.chunk.js",
-    "static/js/2.c783dc7a.chunk.js.map": "/protofolio-project/static/js/2.c783dc7a.chunk.js.map",
-    "static/js/3.ee5a4b51.chunk.js": "/protofolio-project/static/js/3.ee5a4b51.chunk.js",
-    "static/js/3.ee5a4b51.chunk.js.map": "/protofolio-project/static/js/3.ee5a4b51.chunk.js.map",
+    "static/js/2.025a02fd.chunk.js": "/protofolio-project/static/js/2.025a02fd.chunk.js",
+    "static/js/2.025a02fd.chunk.js.map": "/protofolio-project/static/js/2.025a02fd.chunk.js.map",
+    "static/js/3.bd61d004.chunk.js": "/protofolio-project/static/js/3.bd61d004.chunk.js",
+    "static/js/3.bd61d004.chunk.js.map": "/protofolio-project/static/js/3.bd61d004.chunk.js.map",
     "index.html": "/protofolio-project/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/protofolio-project/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.7fee3ff5.chunk.css.map": "/protofolio-project/static/css/main.7fee3ff5.chunk.css.map",
-    "static/js/2.c783dc7a.chunk.js.LICENSE.txt": "/protofolio-project/static/js/2.c783dc7a.chunk.js.LICENSE.txt",
+    "static/css/main.b978b1e6.chunk.css.map": "/protofolio-project/static/css/main.b978b1e6.chunk.css.map",
+    "static/js/2.025a02fd.chunk.js.LICENSE.txt": "/protofolio-project/static/js/2.025a02fd.chunk.js.LICENSE.txt",
     "static/media/B logo.1b3bd662.jpg": "/protofolio-project/static/media/B logo.1b3bd662.jpg",
     "static/media/Java.5a6e5031.jpg": "/protofolio-project/static/media/Java.5a6e5031.jpg",
     "static/media/contact-form.style.css": "/protofolio-project/static/media/background.42477bdd.jpg",
     "static/media/background.59ae066c.jpg": "/protofolio-project/static/media/background.59ae066c.jpg",
-    "static/media/App.css": "/protofolio-project/static/media/bckg.7a861a25.jpg",
+    "static/media/bckg.7a861a25.jpg": "/protofolio-project/static/media/bckg.7a861a25.jpg",
     "static/media/bootstrap-4.997c463d.svg": "/protofolio-project/static/media/bootstrap-4.997c463d.svg",
     "static/media/css3.8fba365c.svg": "/protofolio-project/static/media/css3.8fba365c.svg",
     "static/media/django.0779fca2.svg": "/protofolio-project/static/media/django.0779fca2.svg",
@@ -35,10 +35,10 @@
     "static/media/todoo.2977da1f.PNG": "/protofolio-project/static/media/todoo.2977da1f.PNG"
   },
   "entrypoints": [
-    "static/js/runtime-main.ed058af9.js",
+    "static/js/runtime-main.4b9cbc9f.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.c783dc7a.chunk.js",
-    "static/css/main.7fee3ff5.chunk.css",
-    "static/js/main.3f7d0cf0.chunk.js"
+    "static/js/2.025a02fd.chunk.js",
+    "static/css/main.b978b1e6.chunk.css",
+    "static/js/main.d87ec8bc.chunk.js"
   ]
 }
