@@ -1,13 +1,7 @@
 import React, { Fragment, useRef, useEffect, useState } from 'react';
 
 const ThemeSwitch = ({ preserveRasters = true, storeKey = 'ThemeSwitch' }) => {
-  const cssString = `
-        html { filter: invert(100%); background: #fefefe; }
-        * { background-color: inherit }
-      `;
-  const rasterCss =
-    'img:not([src*=".svg"]), video, [style*="url("] { filter: invert(100%) }';
-
+ 
   const isDeclarationSupported = (property, value) => {
     const prop = property + ':',
       el = document.createElement('test'),
